@@ -1,0 +1,4 @@
+LogIt:
+
+movie-this: Cinderella, 2015, 6.9/10, 84%, USA, UK, English, When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carterdo-what-it-says
+spotify-this-song: I Want It That Way, The Hits--Chapter One, Backstreet Boys, https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
