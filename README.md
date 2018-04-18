@@ -16,7 +16,7 @@ The language interpretation and recognition interface (LIRI) runs from the termi
 
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Makes it interactive
 * [Node](http://jquery.com/) - Executes JavaScript server-side
-* [RPM Packages](https://www.npmjs.com/) - Small packages of reuseable code that pack a big punch
+* [NPM Packages](https://www.npmjs.com/) - Small packages of reuseable code that pack a big punch
 
 ## Author
 

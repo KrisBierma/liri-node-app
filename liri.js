@@ -81,6 +81,7 @@ function gotSong(song){
         }
         else{
             var location = data.tracks.items[0];
+            console.log(data);
             console.log("Song title: "+location.name);
             console.log("Album: " +location.album.name);
             console.log("Artist: "+location.artists[0].name);

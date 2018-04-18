@@ -1,4 +1,32 @@
 LogIt:
 
+tweets: 
+Lord, make me an instrument of thy peace. Where there is hatred, let me sow love. Francis of Assisi
+Learning never exhausts the mind. Leonardo da Vinci
+There is nothing permanent except change.
+Heraclitus
+Don't agree with this! It is better to be feared than loved, if you cannot be both. Niccolo Machiavelli
+When you reach the end of your rope, tie a knot in it and hang on.
+Franklin D. Roosevelt
+You cannot shake hands with a clenched fist.
+Indira Gandhi
+Being entirely honest with oneself is a good exercise. Sigmund Freud.
+There is only one happiness in this life, to love and be loved. George Sand.
+20 tweets is a lot
+Jose Ole!
+Gotta love early morning coffee is cool weather
+Ole Ole. Ole Ole.
+&lt;coding is cool&gt;
+Spicy!
+More cheese please!
+Frito pie &gt; Pot Pie
+I sure do like frito pie!
+tweet 10
+spotify-this-song: The Sign, The Sign (US Album) [Remastered], Ace of Base, https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+spotify-this-song: Shake It Off, 1989, Taylor Swift, https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH
+movie-this: Mr. Nobody, 2009, 7.9/10, 66%, Belgium, Germany, Canada, France, USA, UK, English, Mohawk, A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 movie-this: Cinderella, 2015, 6.9/10, 84%, USA, UK, English, When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carterdo-what-it-says
 spotify-this-song: I Want It That Way, The Hits--Chapter One, Backstreet Boys, https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+spotify-this-song: The Sign, The Sign (US Album) [Remastered], Ace of Base, https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+spotify-this-song: The Sign, The Sign (US Album) [Remastered], Ace of Base, https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+spotify-this-song: The Sign, The Sign (US Album) [Remastered], Ace of Base, https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
