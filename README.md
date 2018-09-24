@@ -1,6 +1,6 @@
 # liri-node-app
 The language interpretation and recognition interface (LIRI) runs from the terminal so a browser isn't needed. Using one of four commands it can pull up recent tweets and search for a user-inputed song on Spotify or a movie on OMDB. 
-[![Alt text](https://img.youtube.com/vi/https://youtu.be/3kekqi9RNR8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/3kekqi9RNR8)
+[![Watch it work!](https://img.youtube.com/vi/3kekqi9RNR8/0.jpg)](https://youtu.be/3kekqi9RNR8)
 
 
 
