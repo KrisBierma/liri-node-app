@@ -67,7 +67,7 @@ else if (userCommand === "do-what-it-says"){
 }
 
 else {
-    console.log("Please type in a command: \n my-tweets \n spotify-this-song 'song name here' \n movie-this 'song name here' \n do-what-it-says");
+    console.log("Please type in a command: \n my-tweets \n spotify-this-song 'song name here' \n movie-this 'movie title here' \n do-what-it-says");
 }
 
 function gotSong(song){
